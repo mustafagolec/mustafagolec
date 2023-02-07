@@ -1,7 +1,7 @@
 <h3 align="center">Hi There I'm Mustafa!</h3>
 
 <p align="left">
-  I'm currently studying on Full-Stack Web Developing. I'm probably working on some projects while you reading this.
+  I'm currently studying on Front-End Developing. I'm probably working on some projects while you reading this.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
