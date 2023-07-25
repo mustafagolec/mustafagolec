@@ -1,7 +1,8 @@
 <h3 align="center">Hi There I'm Mustafa!</h3>
 
 <p align="left">
-  I'm currently studying on Front-End Developing. I'm probably working on some projects while you reading this.
+  I'm currently working on my Unity Game Projects. I'm probably working on some projects while you reading this :)
+  Visit my itch.io on the bio for accessing my game projects.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
