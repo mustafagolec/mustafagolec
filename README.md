@@ -2,7 +2,9 @@
 
 <p align="left">
   I'm currently working on my Unity Game Projects. I'm probably working on some projects while you reading this :)
-  Visit my itch.io on the bio for accessing my game projects.
+</p>
+<p align="left">
+  Unfortunately my projects are private at the moment. Visit my itch.io on the bio for accessing my game projects.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
